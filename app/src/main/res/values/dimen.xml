@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marker_normal">15dp</dimen>
+    <dimen name="marker_focused">25dp</dimen>
+</resources>
